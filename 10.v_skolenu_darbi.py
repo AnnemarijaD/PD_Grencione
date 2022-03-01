@@ -5,7 +5,7 @@
 #2 Dundurs Mārcis
 
 #3 Dūrēja Annemarija
-
+print(cos(radians(60)+fmod(15,2)))
 #4 Dzērve Artūrs
 
 #5 Greilihs Dīvs Rihards
